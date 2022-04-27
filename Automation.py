@@ -1,5 +1,9 @@
-"""Run This Code Snippet In The Terminal:-
+"""
+Run This Code Snippet In The Terminal:-
     pythonw.exe automation.py
+"""
+"""
+    Change The app_icon in every notifications.
 """
 '''
     This program will do the automated task predefined in the program.
@@ -17,6 +21,7 @@ import schedule
 print()
 print("-------------------------Reminder App-------------------------")
 print("Notifying..")
+print("Please Wait For Some Time..")
 print()
 
 # Creating Functions
